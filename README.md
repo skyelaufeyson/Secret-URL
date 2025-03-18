@@ -1,5 +1,5 @@
 # Secret-URL
-# This is the SKR-CTF Challange that i solved , feel free to read 
+# This is the SKR-CTF Challange that i solved.
 
 ![Screenshot 2025-03-18 145126](https://github.com/user-attachments/assets/488d2144-012d-4f68-8f6c-2fe1b4b37532)
 
